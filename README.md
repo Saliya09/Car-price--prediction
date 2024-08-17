@@ -1,6 +1,6 @@
 ### `README.md`
 
-```markdown
+
 # Live Object Detection
 
 This project implements real-time object detection using YOLOv5. It provides the flexibility to run the detection on video files or directly via a webcam.
